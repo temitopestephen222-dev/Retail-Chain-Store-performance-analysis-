@@ -1,5 +1,8 @@
 # Retail Chain Performance Analysis — Stakeholder Brief
 
+## 📄 View the Brief
+[Click here to view the CEO Stakeholder Brief](https://github.com/temitopestephen222-dev/Retail-Chain-Store-performance-analysis-/blob/main/CEO%20stakeholder%20Brief%20pdf.pdf)
+
 ## Overview
 A structured analytical brief prepared for a CEO-level audience, 
 investigating the causes of declining performance across a 
